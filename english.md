@@ -7,8 +7,8 @@ Hello, welcome! We are the BotCity community. We are here to share knowledge abo
 - Instagram: [botcity_dev](https://www.instagram.com/botcity_dev/);
 - Blog: [blog.botcity.dev](https://blog.botcity.dev/);
 - Website: [botcity.dev](https://botcity.dev/);
-- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com).
-<!-- - Dev.to: botcity; -->
+- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com);
+- Dev.to: [botcitydev](https://dev.to/botcitydev).
 
 ## 📋 What is a Code of Conduct?
 What is a Code of Conduct? It is a set of rules to guide a group of people's conduct and activities per its principles and objectives. The community must consider and take this code of conduct seriously, whether people participate or organize it. This document may be constantly updated to meet community needs. Everyone is responsible for following up on changes to this code of conduct.
