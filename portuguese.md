@@ -51,7 +51,7 @@ Se houverem sugestões e críticas construtivas sobre as regras, entre em contat
 ## ⛔ O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:
 - Publicações e mensagens que não estiverem de acordo com este Código de Conduta serão removidas;
 - Caso você infrinja alguma regra, dependendo do que aconteceu, poderá receber uma advertência ou um alerta para sair da comunidade;
-- Se você sofrer algum tipo de abuso, assédio, discriminação, não sentir segurança ou ficar desconfortável com algo ou alguém, fale com a organização. Se a pessoa que você quer reportar estiver na coordenação, fale com outra pessoa organizadora;
+- Se você sofrer algum tipo de abuso, assédio, discriminação, não sentir segurança ou ficar desconfortável com algo ou alguém, fale com a organização. Se a pessoa que você quer reportar estiver na coordenação, fale com outra pessoa organizadora. Você também pode conversar conosco enviando um e-mail para [community@botcity.dev](mailto:community@botcity.dev);
 - Qualquer ponto não abordado ou dúbio no atual código de conduta, deve ser levado e tratado junto à organização.
 
 ### Referências:
