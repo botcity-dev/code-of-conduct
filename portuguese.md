@@ -7,8 +7,8 @@ Olá, boas vindas! Nós somos a comunidade BotCity, onde compartilhamos conhecim
 - Instagram: [botcity_dev](https://www.instagram.com/botcity_dev/);
 - Blog: [blog.botcity.dev](https://blog.botcity.dev/);
 - Site: [botcity.dev](https://botcity.dev/);
-- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com).
-<!-- - Dev.to: botcity; -->
+- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com);
+- Dev.to: [botcitydev](https://dev.to/botcitydev).
 
 ## 📋 O que é Código de Conduta?
 É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam pessoas participantes ou pessoas organizadoras. Este documento pode estar em constante atualização para atender às necessidades da comunidade. É de responsabilidade de todas as pessoas acompanhar as mudanças nesse código de conduta.
