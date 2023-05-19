@@ -7,8 +7,8 @@ Olá, boas vindas! Nós somos a comunidade BotCity, onde compartilhamos conhecim
 - Instagram: [botcity_dev](https://www.instagram.com/botcity_dev/);
 - Blog: [blog.botcity.dev](https://blog.botcity.dev/);
 - Site: [botcity.dev](https://botcity.dev/);
-- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com).
-<!-- - Dev.to: botcity; -->
+- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com);
+- Dev.to: [botcitydev](https://dev.to/botcitydev).
 
 ## 📋 O que é Código de Conduta?
 É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam pessoas participantes ou pessoas organizadoras. Este documento pode estar em constante atualização para atender às necessidades da comunidade. É de responsabilidade de todas as pessoas acompanhar as mudanças nesse código de conduta.
@@ -51,7 +51,7 @@ Se houverem sugestões e críticas construtivas sobre as regras, entre em contat
 ## ⛔ O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:
 - Publicações e mensagens que não estiverem de acordo com este Código de Conduta serão removidas;
 - Caso você infrinja alguma regra, dependendo do que aconteceu, poderá receber uma advertência ou um alerta para sair da comunidade;
-- Se você sofrer algum tipo de abuso, assédio, discriminação, não sentir segurança ou ficar desconfortável com algo ou alguém, fale com a organização. Se a pessoa que você quer reportar estiver na coordenação, fale com outra pessoa organizadora;
+- Se você sofrer algum tipo de abuso, assédio, discriminação, não sentir segurança ou ficar desconfortável com algo ou alguém, fale com a organização. Se a pessoa que você quer reportar estiver na coordenação, fale com outra pessoa organizadora. Você também pode conversar conosco enviando um e-mail para [community@botcity.dev](mailto:community@botcity.dev);
 - Qualquer ponto não abordado ou dúbio no atual código de conduta, deve ser levado e tratado junto à organização.
 
 ### Referências:

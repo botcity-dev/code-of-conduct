@@ -7,8 +7,8 @@ Hello, welcome! We are the BotCity community. We are here to share knowledge abo
 - Instagram: [botcity_dev](https://www.instagram.com/botcity_dev/);
 - Blog: [blog.botcity.dev](https://blog.botcity.dev/);
 - Website: [botcity.dev](https://botcity.dev/);
-- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com).
-<!-- - Dev.to: botcity; -->
+- Slack: [communitybotcitydev](https://communitybotcitydev.slack.com);
+- Dev.to: [botcitydev](https://dev.to/botcitydev).
 
 ## 📋 What is a Code of Conduct?
 What is a Code of Conduct? It is a set of rules to guide a group of people's conduct and activities per its principles and objectives. The community must consider and take this code of conduct seriously, whether people participate or organize it. This document may be constantly updated to meet community needs. Everyone is responsible for following up on changes to this code of conduct.
@@ -51,7 +51,7 @@ We want to maintain a safe and inviting place for people regardless of the:
 ## ⛔ Failure to respect the rules of this community, described in this document, will have consequences:
 - Publications and messages that are not following this Code of Conduct will be removed;
 - If you break any rule, depending on what happened, you may receive a code or an alert to leave the community;
-- If you suffer abuse, harassment, discrimination, or feel unsafe or uncomfortable with something or someone, report it to the organization. If the person you want to report is in the community's organization, speak to another person that is in the community's organization;
+- If you suffer abuse, harassment, discrimination, or feel unsafe or uncomfortable with something or someone, report it to the organization. If the person you want to report is in the community's organization, speak to another person that is in the community's organization. You can also talk to us sending an e-mail to [community@botcity.dev](mailto:community@botcity.dev);
 - Any unsatisfactory or dubious point in the current code of conduct must be taken and dealt with by the organization.
 
 ### References:
