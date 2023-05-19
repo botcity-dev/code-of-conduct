@@ -51,7 +51,7 @@ We want to maintain a safe and inviting place for people regardless of the:
 ## ⛔ Failure to respect the rules of this community, described in this document, will have consequences:
 - Publications and messages that are not following this Code of Conduct will be removed;
 - If you break any rule, depending on what happened, you may receive a code or an alert to leave the community;
-- If you suffer abuse, harassment, discrimination, or feel unsafe or uncomfortable with something or someone, report it to the organization. If the person you want to report is in the community's organization, speak to another person that is in the community's organization;
+- If you suffer abuse, harassment, discrimination, or feel unsafe or uncomfortable with something or someone, report it to the organization. If the person you want to report is in the community's organization, speak to another person that is in the community's organization. You can also talk to us sending an e-mail to [community@botcity.dev](mailto:community@botcity.dev);
 - Any unsatisfactory or dubious point in the current code of conduct must be taken and dealt with by the organization.
 
 ### References:
