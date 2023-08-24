@@ -34,7 +34,8 @@ We want to maintain a safe and inviting place for people regardless of the:
 - Give constructive criticism if necessary. But never use words to offend someone. The goal is to grow and help each other and not the other way around;
 - Be curious and look for answers, for example, in our documents. There are many ways to learn, just as there are many ways to share knowledge;
 - Avoid discussions like "technology X is better than technology Y". Each technology has its purpose and utility. Have common sense in your placements and respect other people's opinions and experiences;
-- It is prohibited to publish content that infringes any license or copyright on any of the community's social media and Slack.
+- It is prohibited to publish content that infringes any license or copyright on any of the community's social media and Slack;
+- Requesting or collecting data from the community is forbidden.
 
 ### ✔️ We actively follow to:
 - Be a safe and pleasant community for all people;

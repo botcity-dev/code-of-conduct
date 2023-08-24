@@ -34,7 +34,8 @@ Se houverem sugestões e críticas construtivas sobre as regras, entre em contat
 - Faça críticas construtivas, se necessário. Mas nunca use palavras para ofender ou destruir alguém. A ideia é crescermos e nos ajudarmos e não o contrário;
 - Seja uma pessoa curiosa e busque por respostas também em outros meios de pesquisa, por exemplo a nossa documentação. Há muitas formas de aprender, assim como também há muitas formas de compartilhar conhecimento;
 - Evite discussões do tipo "tecnologia X é melhor que tecnologia Y". Cada tecnologia tem seu propósito e sua utilidade. Tenha bom senso em suas colocações e respeite as opiniões e experiências das outras pessoas;
-- É proibido publicar em qualquer uma das redes sociais da comunidade e no Slack, conteúdo que infrinja alguma licença ou direitos autorais.
+- É proibido publicar em qualquer uma das redes sociais da comunidade e no Slack, conteúdo que infrinja alguma licença ou direitos autorais;
+- É proibido realizar solicitação ou captação de dados das pessoas participantes da comunidade.
 
 ### ✔️ Nós trabalhamos ativamente para:
 - Ser uma comunidade segura e agradável para todas as pessoas;
