@@ -1,18 +1,18 @@
 ## 🚀 Quiénes somos:
-¡Hola bienvenido! Somos la comunidad BotCity, donde compartimos conocimientos y aprendemos sobre automatización, RPA, Python, proyectos de código abierto y otros proyectos relacionados.
+¡Hola! Somos la comunidad BotCity, donde compartimos conocimientos y aprendemos sobre automatización, RPA, Python, proyectos de código abierto y otros proyectos relacionados.
 
 ## 💻 Nuestras redes oficiales:
 - Twitter: [BotCityDev](https://twitter.com/BotcityDev);
 - LinkedIn: [botcity](https://www.linkedin.com/company/botcity);
 - Instagram: [botcity_dev](https://www.instagram.com/botcity_dev/);
 - Blog: [blog.botcity.dev](https://blog.botcity.dev/);
-- Sitio web: [botcity.dev](https://botcity.dev/);
+- Sitio: [botcity.dev](https://botcity.dev/);
 - Slack: [communitybotcitydev](https://communitybotcitydev.slack.com);
 - Dev.to: [botcitydev](https://dev.to/botcitydev).
 
 ## 📋 ¿Qué es el Código de Conducta?
-Es un conjunto de reglas para guiar la conducta y actividades de un grupo de personas de acuerdo con sus principios y objetivos. La comunidad, ya sean participantes u organizadores, debe seguir las reglas y tomarlas en serio. Este documento podrá actualizarse constantemente para satisfacer las necesidades de la comunidad. Es responsabilidad de todos monitorear los cambios en este código de conducta.
-Si hay sugerencias y críticas constructivas sobre las reglas, comuníquese con la organización comunitaria. Destacamos que este código será considerado por la comunidad en todos sus grupos, en todas las redes sociales, así como en todos y cada uno de los eventos o proyectos.
+Es un conjunto de reglas para guiar la conducta y actividades de un grupo de personas de acuerdo con sus principios y objetivos. Toda la comunidad, ya sean participantes o organizadores, deben seguir las reglas. Este documento podrá actualizarse constantemente para satisfacer las necesidades de la comunidad. Es responsabilidad de todos monitorear los cambios en este código de conducta.
+Si hay sugerencias y críticas constructivas sobre las reglas, comuníquese con la organización. Destacamos que este código será considerado por la comunidad en todos sus grupos, en todas las redes sociales, así como en todos y cada uno de los eventos o proyectos.
 
 ## 🚀 Nuestra comunidad
 - Queremos mantener un lugar seguro y acogedor para las personas independientemente de:
