@@ -11,5 +11,8 @@ English version is available [here](https://github.com/botcity-dev/code-of-condu
 ### 🌎 Portuguese
 Portuguese version is available [here](https://github.com/botcity-dev/code-of-conduct/blob/main/portuguese.md).
 
+### 🌎 Spanish
+Spanish version is available [here](https://github.com/botcity-dev/code-of-conduct/blob/translate-to-spanish/spanish.md).
+
 ## 📢 Contact us
 If you have questions or comments in general about this code of conduct, we want to know. We can discuss it [here](https://communitybotcitydev.slack.com). You can also talk to us sending an e-mail to [community@botcity.dev](mailto:community@botcity.dev).
